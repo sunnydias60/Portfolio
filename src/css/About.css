@@ -1,0 +1,9 @@
+
+@media (max-width: 648px) {
+    .particles{
+        height: fit-content;
+        visibility: hidden;
+        display: none;
+    }
+    
+}
