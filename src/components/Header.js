@@ -47,7 +47,7 @@ const Header = () => {
                             <a href="#">CONTACT</a>
                         </li>
                         <li className="option" onClick={closeMobileMenu}>
-                            <a href="#">BLOG</a>
+                            <a href="#">BLOGS</a>
                         </li>
                     </ul>
                 </div>
